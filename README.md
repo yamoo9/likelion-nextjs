@@ -1,6 +1,9 @@
-# Next.js 학습
+# Next.js 15
 
-Next.js 프레임워크 학습 자료
+![next.js meta framework](__assets__/cover.png)
+
+[Next.js](https://nextjs.org/) 프레임워크 학습 저장소
+
 
 1. 소개
 2. 설치

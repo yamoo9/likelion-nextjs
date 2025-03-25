@@ -1,6 +1,6 @@
 # Next.js 15
 
-![next.js meta framework](__assets__/cover.png)
+![next.js meta framework](https://i.ibb.co/TBjLdwpY/cover.png)
 
 [Next.js](https://nextjs.org/) 프레임워크 학습 저장소
 

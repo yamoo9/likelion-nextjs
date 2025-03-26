@@ -151,4 +151,5 @@
   "tailwind-fold.unfoldIfLineSelected": true,
   "tailwind-fold.unfoldedTextOpacity": 0.9,
   "tailwind-fold.autoFold": false,
+  "typescript.tsdk": "node_modules/typescript/lib",
 }
